@@ -1,10 +1,10 @@
 {
 	"mods": [{
-			"name": "BepInEx",
+			"name": "Melon Loader",
 			"tag": "",
-			"gitPath": "BepInEx/BepInEx",
+			"gitPath": "LavaGang/MelonLoader",
 			"releaseId": 4,
-			"author": "BepInEx Team",
+			"author": "LavaGang",
 			"group": "Core"
 		},
 		{
@@ -124,3 +124,4 @@
 		}
 	]
 }
+

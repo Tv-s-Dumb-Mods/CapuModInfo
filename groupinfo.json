@@ -12,12 +12,17 @@
     "rank" : 2
   },
   {
-    "name" : "Mod Menus",
+    "name" : "Tweaks",
     "rank" : 3
   },
   {
-    "name" : "Libraries",
+    "name" : "Mod Menus",
     "rank" : 4
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 5
   }
 
 ]
+
